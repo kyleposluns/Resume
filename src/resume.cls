@@ -106,3 +106,4 @@
 \def\nameskip{\bigskip} % The space after your name at the top
 \def\sectionskip{\vspace{0em}} % The space after the heading section
 \def\availabilityskip{\vspace{-0.5em}}
+
